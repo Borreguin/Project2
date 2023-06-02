@@ -4,3 +4,6 @@ second line
 PULL TEST
 test A
 xd
+PUSH
+push2
+push3
